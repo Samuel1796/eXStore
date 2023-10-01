@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/* Remove the blue color for links */
+a {
+    color: inherit; /* Use the default text color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  /* Style the link when hovered */
+  a:hover {
+    text-decoration: underline; /* Add underline on hover if desired */
+     /* Specify the color you want on hover */
+  }
+  
